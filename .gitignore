@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+/abc/
+/running_d/
+/uploads/
+/server.pid
+/server_*.log
+/vector_db/db_faiss_medical_backup/

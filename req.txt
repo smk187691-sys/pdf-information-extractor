@@ -4,7 +4,9 @@ langchain_huggingface==0.3.1
 langchain_groq==0.3.8
 huggingface_hub
 pypdf
+python-docx
+docx2txt
 flask
 python-dotenv
-sentence-transformers==5.1.1
+sentence-transformers
 faiss-cpu
